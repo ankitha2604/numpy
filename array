@@ -1,0 +1,10 @@
+#Slicing 3rd value to end
+import numpy as np
+arr=np.array([3,5,8,9,11,19,22,25,27])
+print("Slice starting from 3rd value to end")
+print(arr[1:5])
+
+#Slice 0 to 4 index
+import numpy as np
+arr=np.array([1,2,3,4,5,6,8,9])
+print("Slice 0 to 4 index are:",arr[:4]) 
